@@ -1,4 +1,4 @@
-# LandscapingWebsite
+# FrontendLandscapingWebsite
 **DESCRIPTION** - This is a completely frontend web project that responsively displays all the website's contents. It contains easy-to-use navigation menus and built-in bootstrap components. It also includes location-based SEO.
 
 **INSTALLATION** - You can simply clone this repository and adjust the website to better fit your needs.
