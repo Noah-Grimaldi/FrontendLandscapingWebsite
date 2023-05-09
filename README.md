@@ -5,11 +5,11 @@
 
 **ISSUE(S)** - If a screen width is lower than 293px the site will be squished into very small sections. Devices that may have screen resolutions lower than 293px include:
 - Older Device Resolutions
- - Nokia 130 (128 x 160 pixels, 1.8 inches)
- - Samsung E1200 (128 x 128 pixels, 1.52 inches)
- - Samsung E2252 (128 x 160 pixels, 2.0 inches)
- - LG A133 (128 x 128 pixels, 1.5 inches)
- - LG A275 (128 x 128 pixels, 1.45 inches)
+  - Nokia 130 (128 x 160 pixels, 1.8 inches)
+  - Samsung E1200 (128 x 128 pixels, 1.52 inches)
+  - Samsung E2252 (128 x 160 pixels, 2.0 inches)
+  - LG A133 (128 x 128 pixels, 1.5 inches)
+  - LG A275 (128 x 128 pixels, 1.45 inches)
 
 Although these resolutions are older, it is worth noting that they may have appearance issues with the website; yet the functionality will still be in place.
 
