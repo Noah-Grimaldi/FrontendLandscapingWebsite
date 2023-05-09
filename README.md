@@ -12,7 +12,7 @@
 
 Although these resolutions are older, it is worth noting that they may have appearance issues with the website; yet the functionality will still be in place.
 
-**IMPORTANT** - If you decide to clone this website project, notice that there are several HTML pages in the folder that have to do with locations and different services. The HTML pages that deal with pages all have this code in there files: 
+**IMPORTANT** - If you decide to clone this website project, notice that there are several HTML pages in the root folder that have to do with locations and different services. The HTML pages that deal with pages all have this code in there files: 
 
 `<form action="https://formsubmit.co/<span style=“color:red;”>YourEmail</span>" method="POST" id="contactForm">`
 
