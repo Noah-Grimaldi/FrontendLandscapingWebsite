@@ -14,7 +14,7 @@ Although these resolutions are older, it is worth noting that they may have appe
 
 **IMPORTANT** - If you decide to clone this website project, notice that there are several HTML pages in the root folder that have to do with locations and different services. The HTML pages that deal with pages all have this code in there files: 
 
-`<form action="https://formsubmit.co/<span style=“color:red;”>YourEmail</span>" method="POST" id="contactForm">`
+`<form action="https://formsubmit.co/YourEmail" method="POST" id="contactForm">`
 
 Once you put your email in the "YourEmail" spot, FormSubmit will send you a confirmation email. Once your email is confirmed you will only receive the emails from the contact form if your site is hosted either locally or remotely.
 
